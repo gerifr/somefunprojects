@@ -1,1 +1,1 @@
-<h1><b> This was totally inspired by bro code games when you look at his tuitorial for JS, but is a bit mroe complex with features i added myself</b></h1>
+<h1><b> This was totally inspired by bro code games when you look at his tuitorial for JS, but is a bit more complex with features i added myself</b></h1>
