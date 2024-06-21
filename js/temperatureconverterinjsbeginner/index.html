@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Temperature Converter</title>
+    <center><h1> Tempearture converter</h1></center><br><br>
+</head>
+<body>
+    <div class="container">
+        <div class="input">
+            <div class="inputvalue">
+            <label>Enter the value you know:</label>
+            <input type="text" id="valuein">
+            </div>
+            <div class=""unitin">
+            <label>Which unit is it in:</label>
+            <div class="typein">
+            <input type="radio" id="inkel" name="unique">Kelvin
+            <div><input type="radio" id="fahin " name="unique">Fahrenheit </div>
+            <div><input type="radio" id="incel" name="unique">Celsius</div>
+            </div>
+            </div>
+
+        </div>
+        <br><br>
+        <div class="conv">
+            <label>Convert to: <br></label>
+            <div id="convert">
+            <div><button type="button" id="kelvinout">Kelvin </button></div> 
+            <div id="fahout"><button type="button">Fahrenheit</button></div> 
+            <div><button type="button" id="celsiusout">Celsius </button></div>
+            </div>
+        </div>
+        
+        <br><br>
+
+        <div id="output">
+            <div>The output is:</div>
+            <div id="outputvalue"></div>
+        
+        </div>
+    </div>
+    
+<script src="index.js"></script>
+</body>
+</html>  
