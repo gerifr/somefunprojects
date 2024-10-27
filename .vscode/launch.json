@@ -16,7 +16,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/home/gerifr/Desktop/Computer/cs50x/somefunprojects/C",
-      "program": "/home/gerifr/Desktop/Computer/cs50x/somefunprojects/C/build/Debug/outDebug",
+      "program": "/home/gerifr/Desktop/Computer/cs50x/somefunprojects/C/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
