@@ -2,21 +2,14 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "cmake",
-      "request": "launch",
-      "name": "CMake: Externally launched",
-      "cmakeDebugType": "external",
-      "pipeName": "<...>"
-    },
-    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/gerifr/Desktop/Computer/cs50x/somefunprojects/C",
-      "program": "/home/gerifr/Desktop/Computer/cs50x/somefunprojects/C/build/Release/outRelease",
+      "cwd": "/home/gerifr/Desktop/Computer/cs50x/somefunprojects/C/Cash",
+      "program": "/home/gerifr/Desktop/Computer/cs50x/somefunprojects/C/Cash/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
