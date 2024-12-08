@@ -1,0 +1,51 @@
+#container{
+    margin: 5%;
+    border: 10px solid;
+    border-radius: 15px;
+    text-align: center;
+    background-color: grey;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#Player{
+    color:blue;
+    border: blue solid;
+    margin: auto;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    display: flex;
+    align-items: center;
+    background-color: palegoldenrod;
+}
+#Computer{
+    margin-left: 25%;
+    margin-right: 25%;
+    color: red;
+    font-weight: bold;
+    border: red solid;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+}
+body{
+    align-items: center;
+}
+button {
+    margin: 10px; 
+    padding: 10px 20px;
+    font-size: 16px;
+    display: inline-block;
+    border-radius: 5px;
+}
+button:hover{
+    transform: scale(1.1);
+}
+#plchoice{
+ font-size: 20px;
+}
+#cmchoice{
+    font-size: 20px;
+   }
